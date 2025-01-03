@@ -1,8 +1,18 @@
 #include <OGL3D/Game/OGame.h>
+#include <iostream>
 
 int main()
 {
-	OGame game;
-	game.Run();
+	try
+	{
+		OGame game;
+		game.Run();
+	}
+	catch (const std::exception& e)
+	{
+		std::cout << e.what() << std::endl;
+		return 1;
+	}
+	
 	return 0;
 }

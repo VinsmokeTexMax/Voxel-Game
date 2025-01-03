@@ -1,3 +1,8 @@
 C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\Game\main.cpp;C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\Voxel-Game\x64\Debug\main.obj
+C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\OGL3D\glad\src\glad.c;C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\Voxel-Game\x64\Debug\glad.obj
+C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\OGL3D\glad\src\glad_wgl.c;C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\Voxel-Game\x64\Debug\glad_wgl.obj
+C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\OGL3D\source\OGL3D\Game\Win32\CWin32Game.cpp;C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\Voxel-Game\x64\Debug\CWin32Game.obj
 C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\OGL3D\source\OGL3D\Game\OGame.cpp;C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\Voxel-Game\x64\Debug\OGame.obj
-C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\OGL3D\source\OGL3D\Window\OWindow.cpp;C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\Voxel-Game\x64\Debug\OWindow.obj
+C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\OGL3D\source\OGL3D\Graphics\Win32\CWin32GraphicsEngine.cpp;C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\Voxel-Game\x64\Debug\CWin32GraphicsEngine.obj
+C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\OGL3D\source\OGL3D\Window\CWin32Window.cpp;C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\Voxel-Game\x64\Debug\CWin32Window.obj
+C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\OGL3D\source\OGL3D\Graphics\OGraphicsEngine.cpp;C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\Voxel-Game\x64\Debug\OGraphicsEngine.obj

@@ -7,10 +7,10 @@ public:
 	OWindow(); // Constructor
 	~OWindow(); // Destructor
 
-	void onDestroy();
-	bool isClosed();
+	void makeCurrentContext();
+	void present(bool vsync);
 
 private:
 	void* m_handle = nullptr;
-
+	void* m_conext = nullptr;
 };
