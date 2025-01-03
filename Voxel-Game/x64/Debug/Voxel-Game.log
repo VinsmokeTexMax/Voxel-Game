@@ -1,9 +1,7 @@
 ﻿  OGame.cpp
-C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\OGL3D\source\OGL3D\Game\OGame.cpp(23,46): warning C4305: 'argument': truncation from 'double' to 'f32'
-C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\OGL3D\source\OGL3D\Game\OGame.cpp(23,39): warning C4305: 'argument': truncation from 'double' to 'f32'
-C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\OGL3D\source\OGL3D\Game\OGame.cpp(23,32): warning C4305: 'argument': truncation from 'double' to 'f32'
-  CWin32Window.cpp
-  Generating Code...
+C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\OGL3D\source\OGL3D\Game\OGame.cpp(32,46): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\OGL3D\source\OGL3D\Game\OGame.cpp(32,39): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\OGL3D\source\OGL3D\Game\OGame.cpp(32,32): warning C4305: 'argument': truncation from 'double' to 'f32'
   Voxel-Game.vcxproj -> C:\Users\Santiago M\Desktop\Code\Personal\Voxel-Game\x64\Debug\Voxel-Game.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
