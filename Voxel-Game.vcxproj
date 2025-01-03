@@ -85,6 +85,7 @@
     <ClCompile Include="OGL3D\source\OGL3D\Window\CWin32Window.cpp" />
     <ClCompile Include="OGL3D\source\OGL3D\Graphics\OGraphicsEngine.cpp" />
     <ClCompile Include="OGL3D\source\OGL3D\Graphics\OVertexArrayObject.cpp" />
+    <ClCompile Include="OGL3D\source\OGL3D\Graphics\OShaderProgram.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="OGL3D\include\OGL3D\Game\OGame.h" />
@@ -94,6 +95,11 @@
     <ClInclude Include="OGL3D\include\OGL3D\Window\OWindow.h" />
     <ClInclude Include="OGL3D\include\OGL3D\Graphics\OGraphicsEngine.h" />
     <ClInclude Include="OGL3D\include\OGL3D\Graphics\OVertexArrayObject.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Graphics\OShaderProgram.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Shaders\BasicShader.frag" />
+    <None Include="Assets\Shaders\BasicShader.vert" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

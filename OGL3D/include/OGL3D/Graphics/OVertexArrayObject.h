@@ -7,7 +7,7 @@ class OVertexArrayObject
 	
 public:
 
-	OVertexArrayObject(const OVertexBufferData& data); // Constructor
+	OVertexArrayObject(const OVertexBufferDesc& data); // Constructor
 	~OVertexArrayObject(); // Destructor
 
 	ui32 getID();
@@ -20,6 +20,6 @@ private:
 
 	ui32 m_vertexBufferID = 0;
 	ui32 m_vertexArrayObjectID = 0;
-	OVertexBufferData m_vertexBufferData;
+	OVertexBufferDesc m_vertexBufferData;
 };
 

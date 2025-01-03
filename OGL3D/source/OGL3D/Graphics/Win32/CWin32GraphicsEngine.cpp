@@ -46,10 +46,10 @@ OGraphicsEngine::OGraphicsEngine()
 	wglMakeCurrent(dummyDC, dummyContext);
 
 	if (!gladLoadWGL(dummyDC))
-		throw std::runtime_error("OGraphicsEngine - gladLoadWGL Failed");
+		OGL3D_ERROR("OGraphicsEngine - gladLoadWGL Failed");
 
 	if (!gladLoadGL())
-		throw std::runtime_error("OGraphicsEngine - gladLoadGL Failed");
+		OGL3D_ERROR("OGraphicsEngine - gladLoadGL Failed");
 
 	wglMakeCurrent(dummyDC, 0);
 	wglDeleteContext(dummyContext);
